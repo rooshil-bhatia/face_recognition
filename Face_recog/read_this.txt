@@ -1,0 +1,3 @@
+1)Make sure dataset folder is empty before running
+2) Copy paste the below command in terminal
+3)pip install opencv-contrib-python
